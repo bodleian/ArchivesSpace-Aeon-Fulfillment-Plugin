@@ -3,4 +3,5 @@ en:
     aeon_fulfillment:
       request_button_icon: fa fa-external-link-square fa-external-link-square-alt fa-3x
       request_button_label: "Request<br/>this"
+      request_button_tooltip: Request the materials described in this record for viewing in the reading rooms
       requesting_disabled: Requesting is not available for this record.
